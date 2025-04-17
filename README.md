@@ -48,6 +48,7 @@ I took a slightly different approach than [benlinton](https://github.com/benlint
 
 1. **Search Google for a logo:**  
    `"logo name" + png black and white` (the larger, the better)
+   - Or use  [benlinton Icons Library](https://github.com/benlinton/awesome-dashboard-icons)
 
 2. **Download a clean PNG logo** with a transparent background (ideally one color).
 
