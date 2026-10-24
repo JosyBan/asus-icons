@@ -34,6 +34,7 @@ Click on any icon to download it:
 | Sonos            | <img src="Asus%20Icons/sonos.png" width="54"> |
 | TCP              | <img src="Asus%20Icons/tcp.png" width="54"> |
 | TP-Link          | <img src="Asus%20Icons/tplink_SS.png" width="54"> |
+| Unifi            | <img src="Asus%20Icons/unifi_SS.png" width="54"> |
 | Vent-Axia        | <img src="Asus%20Icons/ventaxia.png" width="54"> |
 | Zappi            | <img src="Asus%20Icons/zappi-SS.png" width="54"> |
 | Zigbee           | <img src="Asus%20Icons/zigbee_SS.png" width="54"> |
